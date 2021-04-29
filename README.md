@@ -6,4 +6,4 @@ You can make pull requests for suggestions and bug fixes!
 
 CREDITS
 
-Thanks to user 42506 on MCreator for the base Ice cream textures an indirectly teachin me how to make shaded textures!
+Thanks to user 42506 on MCreator for the base ice cream textures and indirectly teaching me how to make shaded textures!
