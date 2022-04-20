@@ -1,0 +1,273 @@
+This is the full changelog listing for the VICM beta development state.
+
+BETA 1.5.2 [Minor Patch] (June 27th, 2020 - 9:57 PM)
+
+ADDITIONS
+    GUI
+
+Added 1-Year Ice Cream To Special Ice Cream Machine
+
+CHANGES
+
+Oxygen Block Uses Bedrock Editions Texture
+Changed Debug Tab Icon
+Changed Debug Tabs Name To "ICM Experimental Features"
+Removed Priority Book
+Removed Unused Stuff  
+
+
+BETA 1.5.1 [Major Update] (June 27th, 2020)
+
+ ADDITIONS
+
+Added A New Ice Cream for my Profile Anniversary
+Added A Lapis Coin
+     NEW ADVANCEMENT
+
+Added New Advancement Called "YAY!!!"
+ CHANGES
+
+Gave Frosted Ice Cream A New Texture
+Removed Old Give-ICM Command
+Removed Wrench
+New Textures For The Coins
+Changed Eating Speed to 60 ticks (3 Seconds)
+Frosted Ice Cream Now Take 3.5 Seconds to Eat
+Debug Menu Now Uses Settings Icon
+Updated Le Scoop, Rusty Scoop, and Wafer Bullet Cone's Data
+ FIXES
+
+New Creative Tab - New Arrangement
+Bug Fix 002 - Bronze Nugget Has No Selected Texture
+Bug Fix 003 - 100 Downloads Ice Cream Is An Item Instead Of Food
+Improvements
+
+
+BETA 1.4 - 100 Downloads! (Release Date: May 3rd, 2020)
+
+ADDITIONS
+
+Added 100 Downloads Ice Cream
+Added Bronze Nugget
+Added Crafting Recipes For Coins
+    NEW ADVANCEMENT
+
+Added "100 Downloads!!!" Advancement
+CHANGES
+
+Changed "Chocolate Cream Ice Cream" To "Vanilla Creamed Ice Cream"
+Changed Vanilla Creamed Ice Cream's Texture
+
+
+BETA 1.3 - The Payment Update (Release Date: April 29th, 2020)
+
+ADDITIONS
+
+Added "Oxygen Block" An Element Used To Craft Rusty Ingots
+Added "Rusty Ingot" Used To Craft Rusty Scoop
+Implemented Payment System! More Info Above
+CHANGES
+
+Changed Le Scoop's Texture
+
+
+BETA 1.2 - The Advancement Update (Release Date: April 17th, 2020)
+
+ADDITIONS
+
+Added "Rusty Scoop" A Weapon That Can Be Used For Farming
+Added Loot Table For Rusty Scoop
+Added "Le Scoop" A Weapon That Is A Scoop? (Currently In DEBUG Tab)
+Recipe For Le Scoop
+Added Command "give-ICM" Which Gives The Player Every Item In The Mod!
+Added Coins - Come In Gold, Silver, & Bronze types! (Located In Debug Tab)
+    New Advancements
+
+Added Rusty Scoop Advancement
+Added Caramel Advancement
+Added Advancement Le Scoop
+Added Advancement "Chocolate"
+Added Advancement "Special Ice Cream"
+Added Advancement "Strawberry"
+CHANGES
+
+    ADVANCEMENTS
+
+Overhaul of Advancements
+Rewrote Advancements - They Work Now!
+TEXTURES
+
+Changed Textures of Ice Cream Machine & Special Ice Cream Machine
+Changed Rusty Scoop Texture
+Minor Texture Changes To Other Items
+
+
+BETA 1.2 Pre-Release (April 16th, 2020)
+
+ADDITIONS
+
+Added "Rusty Scoop" A Weapon That Can Be Used For Farming
+Added Loot Table For Rusty Scoop
+    New Advancements
+
+Added Rusty Scoop Advancement
+Added Caramel Advancement
+CHANGES
+
+Organized Achievements
+
+
+Snapshot 20w15a - Le Scoop (April 11th, 2020)
+
+ADDITIONS
+
+Added "Le Scoop" A Weapon That Is A Scoop? (Currently In DEBUG Tab)
+Recipe For Le Scoop
+    NEW ADVANCEMENT
+
+Added Advancement Le Scoop
+
+
+Snapshot 20w13a (March 24th, 2020)
+
+ADDITIONS
+
+Added Command "give-ICM" Which Gives The Player Every Item In The Mod!
+Added Coins - Come In Gold, Silver, & Bronze types! (Located In Debug Tab)
+    NEW ADVANCEMENTS
+
+Added Advancement "Chocolate"
+Added Advancement "Special Ice Cream"
+Added Advancement "Strawberry"
+CHANGES
+
+Changed Textures of Ice Cream Machine & Special Ice Cream Machine
+Rewrote Advancements - They Work Now!
+Payment System Now Uses Coins (Will Be Implemented Soon! Still Uses Bricks)
+
+
+Beta 1.1.1 (March 23rd, 2020)
+
+CHANGES
+
+Applied Name Changes To Buttons In Ice Cream Machines
+OPTIMIZATIONS
+
+Removed Unused Code, Such As Order Commands & Brain Freeze Potion
+Mods are now on MediaFire! Links Above! :)
+
+
+Beta 1.1 (March 21st, 2020)
+
+ADDITIONS
+
+Added Sprinkle Ice Cream
+Added Wafer Cone
+Added Throwable Wafer Cone
+CHANGES
+
+Changed Pumpkin Ice Cream Texture
+Super-Cold Ice Cream is now Frosted Ice Cream
+Classic-Vanilla Ice Cream is now Wafer Vanilla Ice Cream
+Creamy Ice Cream is now Chocolate Cream Ice Cream
+FIXES
+
+Fixed Bug 001 - Caramel Ice Cream Has No Texture
+
+
+I am currently working on the Ice Cream Store DLC! It will come soon!
+
+Snapshot 20w10a (March 3rd, 2020)
+
+ADDITIONS
+
+Added Sprinkle Ice Cream
+Added Wafer Cone
+Added Throwable Wafer Cone
+FIXES
+
+Fixed Bug 001 - Caramel Ice Cream Has No Texture
+
+Beta 1.0 (February 19, 2020) 
+
+Opted Mod Into The Beta Phase
+New Textures
+No Longer Uses New Versioning Format
+Removed Ice Cream Jugs
+Removed Wafers
+Removed Ice Cream Recipes, Only Obtainable From Ice Cream Machines
+Added Creamy Ice Cream
+Added Caramel Ice Cream
+Added Pumpkin Ice Cream
+Changed Ice Cream Maker Name To Ice Cream Machine
+Changed Ultra Ice Cream Maker Name To Special Ice Cream Machine
+Changed Ice Cream Machine Recipe From Iron Blocks To Ingots
+New Achievements
+Added Payment System
+Added Storage Unit For All Items
+Added Wrench (Has No Use)
+Added Debug Tab
+Added Mystery Block
+Fixed Minor Code Errors
+
+
+Snapshot 20w07a (2/15/2020)
+
+Removed Buzzsaw
+
+Removed Buzzsaw Manual
+
+Removed Buzzsaw Achievements
+
+Added Creamy Ice Cream
+
+Added Payment System (Only Applies To Normal IC Maker)
+
+Miscellaneous Fixes & Changes
+
+
+Snapshot 19w51b (12/20/2019)
+
+Added Buzzsaw
+
+Added 2 New Achievements (They may not work correctly)
+
+Added Buzzsaw Manual
+
+Bug Fixes
+
+
+
+MERRY CHRISTMAS MINECRAFTERS!
+
+
+Snapshot 19w51a (12/16/2019)
+
+Changed Ice Cream Maker Name To Ice Cream Machine
+
+Changed Ultra Ice Cream Maker Name To Special Ice Cream Machine
+
+Changed Ice Cream Machine Recipe From Iron Blocks To Ingots
+
+New Achievements
+
+Minor Fixes
+
+
+Snapshot 19w50a (12/15/2019)
+
+Opted Mod Into The Beta Phase
+
+New Textures
+
+No Longer Uses New Versioning Format
+
+Removed Ice Cream Jugs
+
+Removed Wafers
+
+Removed Ice Cream Recipes, Only Obtainable From Ice Cream Machines
+
+Added Caramel Ice Cream
+
+Added Pumpkin Ice Cream
